@@ -1,0 +1,70 @@
+
+
+----------------------------------------------------------------
+Professional Summary
+1 Over 3+ years of exp in working on Selenium automation testing and SDET
+2 Over 5+ year of exp in s/w testing.
+3 Experience in working on Agile Scrum process
+4 Actively Involved in daily scrum meetings with the client
+5 Expertise in creating automation frameworks in Hybrid model.
+6 Implemented Page Object model for designing regression test suites.
+7 Working knowledge in using Cucumber for implementing BDD for UAT
+8 Well versed in using automation tools like Selenium Webdriver and Grid
+9 Performed distributed testing using Selenium Grid
+10 Automated DB Testing using JDBC
+11 Excellent knowledge of SQL for backend testing.
+12 Knolwedge in using external components like autoit,robot etc for handling window
+   components.
+13 Good knowledge of build tools like ANT and Maven for creating selenium artifacts
+14 Worked on version controlling using GIT
+15 Good knowledge of implementing CI/CD pipeline using Jenkins
+16 Implemented cloud testing using Sauce Labs.
+17 Ability to understand user requirements and create user stories
+
+Project Summary
+---------------------
+Project#2
+	Title:
+        Client:
+        Duration:
+        Designation: SDET/Sr QA
+        Description:
+
+        Roles:
+
+
+Project#1
+	Title:
+        Client:
+        Duration:
+        Designation: Test Engineer
+        Description:
+
+        Roles:
+
+
+Skill Set
+--------------
+Programming Languages:  Java
+Data Base: Oracle
+Scripting Languages:Java Scrit
+OS:linux and windows
+
+Academic Quialifications
+--------------------------
+ Btech form Osmani in 2012
+
+Presonal Info
+----------------
+
+
+
+
+
+
+
+
+
+
+
+ 
